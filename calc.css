@@ -1,0 +1,39 @@
+#mainBox {
+  width: 100px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: #4158D0;
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+
+#display {
+  width: 85px;
+  height: 20px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  text-align:center;
+}
+
+
+.numbers,
+.numbers1,
+.numbers2,
+.numbers3,
+.numbers4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 10px;
+}
+
+input[type='button'] { 
+width: 30px; 
+height:25px;  
+border-radius: 5px; background-color: #fff; 
+border: 1px solid #000; }
