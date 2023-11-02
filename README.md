@@ -1,2 +1,4 @@
 # Simple-Calculator-App
-Calculator 
+
+Made this in class. Its a basic calculator app using JS.
+ 
